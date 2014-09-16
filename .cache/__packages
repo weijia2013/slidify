@@ -1,0 +1,11 @@
+base
+dplyr
+forecast
+memoise
+NLP
+RColorBrewer
+slidify
+timeDate
+tm
+wordcloud
+zoo
